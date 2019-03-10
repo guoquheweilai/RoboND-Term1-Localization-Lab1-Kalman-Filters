@@ -1,0 +1,4 @@
+<launch>
+  <!--RVIZ-->
+  <node pkg="rviz" type="rviz" name="rviz" args="-d /home/workspace/RoboND-Term1-Localization-Lab1-Kalman-Filters/catkin_ws/src/EKFLab.rviz"/>
+</launch>
